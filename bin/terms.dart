@@ -1,8 +1,8 @@
 // && оператор and
 // || оператор or
 
-void main() {
-  var a = 15,b=5; 
+// void main() {
+//   var a = 15,b=5; 
   // if (a == b) {
   //   print('Hello');
   // } 
@@ -24,5 +24,15 @@ void main() {
   //   res  = 20;
   // }
 
-  var res = a == 5 ? 10 : 20;
-}
+  // Тернарный оператор
+
+  // var res = a == 5 ? 10 : 20;
+
+  // var digit = 5;
+  // switch (digit) {
+  //   case 4:
+  //     print('Equal 4');
+  //     break;
+  //   default:
+  // }
+// }
