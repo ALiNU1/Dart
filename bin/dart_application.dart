@@ -21,6 +21,12 @@ void main(List<String> arguments) {
   // dynamisData = false;
   print(dynamisData);
 
-  var a = 2,b=3;
-  print(a+b);
+  var a = 15,b=3;
+  print('+ : ${a+b}');
+  print('- : ${a-b}');
+  print('* : ${a*b}');
+  print('/ : ${(a/b).toInt()}');
+  print('/ : ${a~/b}');
+  print('% : ${a%b}');
+  
 }
